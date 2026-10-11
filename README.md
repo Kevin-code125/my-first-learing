@@ -8,4 +8,5 @@ I am learning:
 - GitHub
 - English
 - Japanese
+    
 My goal is to become a better software developer.
